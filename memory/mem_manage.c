@@ -1,4 +1,3 @@
-#include "board.h"
 #include "mem_manage.h"
 
 uint8_t heap_mem_size[MEM_SIZE];
